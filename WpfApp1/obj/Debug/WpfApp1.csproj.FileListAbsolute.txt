@@ -14,3 +14,11 @@ D:\visual studio\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
 D:\visual studio\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
 D:\visual studio\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
 D:\visual studio\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\visual studio\WpfApp1\WpfApp1\obj\Debug\View\createOrder.g.cs
+D:\visual studio\WpfApp1\WpfApp1\obj\Debug\View\createOrder.baml
+D:\visual studio\WpfApp1\WpfApp1\obj\Debug\View\makeAnOrder.g.cs
+D:\visual studio\WpfApp1\WpfApp1\obj\Debug\View\makeAnOrder.baml
+D:\visual studio\WpfApp1\WpfApp1\obj\Debug\View\order.g.cs
+D:\visual studio\WpfApp1\WpfApp1\obj\Debug\View\order.baml
+D:\visual studio\WpfApp1\WpfApp1\obj\Debug\View\editCatalog.g.cs
+D:\visual studio\WpfApp1\WpfApp1\obj\Debug\View\editCatalog.baml
